@@ -1,3 +1,4 @@
+.
 resource "aws_instance" "instance" {
 
   ami           = var.ami
