@@ -1,4 +1,3 @@
-
 variable "name" {}
 variable "ami" {}
 variable "zone_id" {}
